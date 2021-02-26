@@ -90,19 +90,19 @@ Our current implementation is tested on:
      
 1. WISH 0.99의 실습은 모두 colab으로 이용합니다.Yolov5실습을 위해서는 GPU설정을 꼭 해주세요.
 2. colab에서 실습이 끝났으면, 원하는 객체가 담긴 영상을 업로드하고 분석하면됩니다.
-3. 학습 --> 
+3. 학습 -->   
 <!python train.py --img 416 --batch 16 --epochs 50 --data ../data.yaml --cfg  models/yolov5s.yaml --weights '' --name aihub>
-4. 결과도출 -->
+4. 결과도출 -->  
 <!python detect.py --weights /content/yolov5/runs/train/aihub/weights/best.pt  --conf 0.4 --source 영상.mp4>
 ​
 ​
 ## Contacts
 ​
-> 강혜승 kanghazel1@gmail.com
-> 고수진 khucomsujin@likelion.org
-> 김연주 rladuswn7@likelion.org
-> 신원희 wonhee1104@gmail.com
-> 허정은 huhjobs@gmail.com
+> 강혜승 kanghazel1@gmail.com  
+> 고수진 khucomsujin@likelion.org  
+> 김연주 rladuswn7@likelion.org  
+> 신원희 wonhee1104@gmail.com  
+> 허정은 huhjobs@gmail.com  
 ​
 ​
 ### all rights reserverd  - likelion 인공지능 1기 final project  

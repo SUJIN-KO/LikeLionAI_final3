@@ -1,7 +1,7 @@
 # LikeLionAI_final3
 LikeLion AI 멋쟁이사자처럼 파이널 프로젝트 3팀 
 
-[READ ME]
+자세한 Code 와 PT 파일은 **wish099** branch에서 확인 가능합니다
 ​
 # Walk assistant Object Detection
 -- Where I SHould Head WISH 0.99 project
@@ -84,4 +84,4 @@ Our current implementation is tested on:
 4. !python detect.py --weights /content/yolov5/runs/train/aihub/weights/best.pt  --conf 0.4 --source 영상.mp4
 ​
 ​
-##Contacts
+## Contacts

@@ -1,0 +1,12 @@
+requirements! 
+
+pandas
+pyyaml
+opencv-python
+shutil
+subprocess
+tensorboard
+tensorflow-gpu
+tqdm
+yaml
+yolov5

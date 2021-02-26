@@ -46,6 +46,7 @@ Our current implementation is tested on:
 ​
 ## USE
 ​
+```
   -- train
      |-- images
      |   |-- MP_SEL_000001.jpg
@@ -85,7 +86,7 @@ Our current implementation is tested on:
      |   |-- MP_SEL_000015.xml
      |   |-- MP_SEL_000016.xml
      |   |-- ...
-     
+```     
      
 1. WISH 0.99의 실습은 모두 colab으로 이용합니다.Yolov5실습을 위해서는 GPU설정을 꼭 해주세요.
 2. colab에서 실습이 끝났으면, 원하는 객체가 담긴 영상을 업로드하고 분석하면됩니다.

@@ -1,9 +1,19 @@
 # LikeLionAI_final3
 LikeLion AI 멋쟁이사자처럼 파이널 프로젝트 3팀 
 
-자세한 Code 와 PT 파일은 **wish099** branch에서 확인 가능합니다
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcDRMJ7%2FbtqYxpaq9P5%2FUzOTR5qIHDumg5pmj6apyK%2Fimg.png"/>
+
+# WISH099 프로젝트 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ohahohah/readme-template/graphs/commit-activity) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+> WISH099 프로젝트는 시각장애인의 이동권을 보장하기 위해 시작되었습니다.  
+- www.wish099.com (3월 배포 예정)
+- 자세한 Code 와 PT 파일은 **wish099** branch에서 확인 가능합니다
+
 ​
-# Walk assistant Object Detection
+## Walk assistant Object Detection
 -- Where I SHould Head WISH 0.99 project
 ​
 ​
@@ -81,7 +91,18 @@ Our current implementation is tested on:
 2. colab에서 실습이 끝났으면, 원하는 객체가 담긴 영상을 업로드하고 분석하면됩니다.
 3. 학습 --> 
 <!python train.py --img 416 --batch 16 --epochs 50 --data ../data.yaml --cfg  models/yolov5s.yaml --weights '' --name aihub>
-4. !python detect.py --weights /content/yolov5/runs/train/aihub/weights/best.pt  --conf 0.4 --source 영상.mp4
+4. 결과도출 -->
+<!python detect.py --weights /content/yolov5/runs/train/aihub/weights/best.pt  --conf 0.4 --source 영상.mp4>
 ​
 ​
 ## Contacts
+​
+강혜승 
+고수진 khucomsujin@likelion.org
+김연주 rladuswn7@likelion.org
+신원희 wonhee1104@gmail.com
+허정은 huhjobs@gmail.com
+​
+​
+all rights reserverd  - likelion 인공지능 1기 final project  
+

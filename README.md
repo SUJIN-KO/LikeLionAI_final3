@@ -1,5 +1,5 @@
-# LikeLionAI_final3
-LikeLion AI 멋쟁이사자처럼 파이널 프로젝트 3팀 
+
+99%의 바람, WISH099
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcDRMJ7%2FbtqYxpaq9P5%2FUzOTR5qIHDumg5pmj6apyK%2Fimg.png"/>
 

@@ -9,8 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > WISH099 프로젝트는 시각장애인의 이동권을 보장하기 위해 시작되었습니다.  
-- www.wish099.com (3월 배포 예정)
-- 자세한 Code 와 PT 파일은 
+- 자세한 Code 
 [wish099](https://github.com/SUJIN-KO/LikeLionAI_final3/tree/wish099)
 branch에서 확인 가능합니다
 ​

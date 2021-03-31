@@ -101,12 +101,12 @@ Our current implementation is tested on:
 ​
 ## Contacts
 ​
-> 강혜승 kanghazel1@gmail.com  
+
 > 고수진 khucomsujin@likelion.org  
 > 김연주 rladuswn7@likelion.org  
 > 신원희 wonhee1104@gmail.com  
 > 허정은 huhjobs@gmail.com  
 ​
 ​
-### all rights reserverd  - likelion 인공지능 1기 final project  
+### all rights reserverd  - Team 99%
 

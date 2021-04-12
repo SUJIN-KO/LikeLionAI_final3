@@ -12,6 +12,7 @@
 - 자세한 Code 
 [wish099](https://github.com/SUJIN-KO/LikeLionAI_final3/tree/wish099)
 branch에서 확인 가능합니다
+- 팀원들의 [개발일지](https://docs.google.com/document/d/1wMHFXvpVXOjIXuJ5wRrp0NPv6m5eys79bZowdAQQre0/edit)
 ​
 ## Walk assistant Object Detection
 -- Where I SHould Head WISH 0.99 project
